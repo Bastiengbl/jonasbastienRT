@@ -1,8 +1,8 @@
-- 👋 Hi, nous sommes @jonasbastienRT
-- 👀 Nous travaillons sur un projet visant à retrouver les anciens de RT de chatellerault
-- 🌱 Nous sommes étudians à l'iut RT de chatellerault
-- 💞️ Nous travaillons en étroite collaboration, Jonas Bourreau et moi-même
-- 📫 Comment me joindre:
+- � Hi, nous sommes @jonasbastienRT
+- �Nous travaillons sur un projet visant à retrouver les anciens de RT de chatellerault
+- � Nous sommes étudians à l'iut RT de chatellerault
+- �Nous travaillons en étroite collaboration, Jonas Bourreau et moi-même
+- �Comment me joindre:
 bastien.gibel@etu.univ-poitiers.fr
 jonas.bourreau@etu.univ-poitiers.fr
 
