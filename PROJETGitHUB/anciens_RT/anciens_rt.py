@@ -63,8 +63,8 @@ def write_html_footer(fichier):
 def write_html_end(fichier):
     fichier.write("</html>")
     
-fichier = open("fichier1.html", "w")
-write_html_header(fichier,"Mon titre")
+fichier = open("../html/fichier1.html", "w")
+write_html_header(fichier,"Projet_RT")
 write_html_body_begin(fichier)
 write_html_body(fichier)
 colonne1 = ["test", 2, 3, 4]
